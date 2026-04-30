@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PB Acabamentos Residenciais | Paulo Barros</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .gold-text { color: #C5A059; }
+        .bg-navy { background-color: #001a33; }
+        .border-gold { border-color: #C5A059; }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans">
+
+    <header class="bg-navy text-white py-20 px-6 text-center">
+        <h2 class="gold-text tracking-widest text-sm font-bold mb-2 uppercase">Consultoria & Execução</h2>
+        <h1 class="text-5xl font-extrabold mb-4">PB ACABAMENTOS</h1>
+        <p class="text-gray-400 max-w-2xl mx-auto mb-8">Especialista em acabamentos de alto padrão, grandes formatos e soluções inteligentes em drywall.</p>
+        <a href="https://wa.me/5511950698199" class="bg-[#C5A059] text-navy font-bold py-3 px-8 rounded-full hover:bg-yellow-600 transition">Falar com Paulo Barros</a>
+    </header>
+
+    <section class="max-w-6xl mx-auto py-16 px-6">
+        <h3 class="text-3xl font-bold text-center mb-12 text-navy">Nossas Especialidades</h3>
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="bg-white p-8 rounded-lg shadow-md border-t-4 border-gold">
+                <h4 class="font-bold text-xl mb-3">Grandes Formatos</h4>
+                <p class="text-gray-600 text-sm">Assentamento técnico de porcelanatos e lastras com nivelamento a laser (Piso Zero).</p>
+            </div>
+            <div class="bg-white p-8 rounded-lg shadow-md border-t-4 border-gold">
+                <h4 class="font-bold text-xl mb-3">Móveis em Drywall</h4>
+                <p class="text-gray-600 text-sm">Closets e painéis estruturados. 40% mais econômico que marcenaria, com acabamento impecável.</p>
+            </div>
+            <div class="bg-white p-8 rounded-lg shadow-md border-t-4 border-gold">
+                <h4 class="font-bold text-xl mb-3">Acesso Inteligente</h4>
+                <p class="text-gray-600 text-sm">Instalação de fechaduras eletrônicas, biométricas e portas técnicas com precisão.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-gray-100 py-16 px-6">
+        <div class="max-w-4xl mx-auto text-center">
+            <h3 class="text-3xl font-bold mb-8 text-navy">Por que a PB Acabamentos?</h3>
+            <ul class="text-left space-y-4">
+                <li class="flex items-center">✅ <span class="ml-3"><strong>Obra Limpa:</strong> Lixamento mecanizado com aspiração industrial.</span></li>
+                <li class="flex items-center">✅ <span class="ml-3"><strong>Segurança:</strong> Equipe CLT treinada com NR-35 (Trabalho em Altura).</span></li>
+                <li class="flex items-center">✅ <span class="ml-3"><strong>Tecnologia:</strong> Ferramental de precisão e gestão digital.</span></li>
+            </ul>
+        </div>
+    </section>
+
+    <footer class="bg-navy text-white py-12 px-6 text-center">
+        <p class="mb-4 text-gray-400">Rua Maria Boscarial Gabriele, 141 - Nova Mauá, Mauá/SP</p>
+        <p class="text-2xl font-bold gold-text">(11) 95069-8199</p>
+        <div class="mt-8 text-xs text-gray-500">
+            © 2026 PB Acabamentos Residenciais. Todos os direitos reservados.
+        </div>
+    </footer>
+
+</body>
+</html>
